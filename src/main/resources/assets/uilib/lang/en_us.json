@@ -1,0 +1,10 @@
+{
+  "key.uilib.category": "Flash's UILib",
+  "key.uilib.openscreen": "Open Screen",
+  "key.uilib.addbarprogress": "Add Bar Progress",
+  "key.uilib.subbarprogress": "Subtract Bar Progress",
+  "key.uilib.playanim": "Play HUD Animation",
+
+  "screen.uilib.somerandomscreen.title": "Some Random Screen",
+  "screen.uilib.somerandomscreen.playanim": "Play Animation"
+}
